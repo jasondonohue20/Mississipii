@@ -1,5 +1,7 @@
 # Mississipii
 
+# shinny link 
+http://jasondonohue20.shinyapps.io/Mississipii?_ga=2.133186124.354208832.1682541392-746115546.1677884294
 # librariers
 ```
 library(tidyverse)
@@ -98,8 +100,6 @@ Master_water <- Master %>%
   
   I created six different charts and one table. I used geom_point() and geom_col() to create my charts. 
   
-  # shinny link
   
-  http://jasondonohue20.shinyapps.io/Mississipii?_ga=2.133186124.354208832.1682541392-746115546.1677884294 
   
   
