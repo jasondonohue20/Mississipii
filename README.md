@@ -59,6 +59,7 @@ Master_water <- Master %>%
   Each one has a text related to each chart/table created. 
   
   # Code to explain outputs
+   
    I created six different charts and one table. I used geom_point() and geom_col() to create my charts. 
   
   ```
@@ -100,7 +101,7 @@ Master_water <- Master %>%
     
   })
   
-  
+  ```
   
   
   
