@@ -59,6 +59,8 @@ Master_water <- Master %>%
   Each one has a text related to each chart/table created. 
   
   # Code to explain outputs
+   I created six different charts and one table. I used geom_point() and geom_col() to create my charts. 
+  
   ```
   output$text_output7 <- renderText({ text7 })
   output$table <- DT::renderDataTable(Kickapoo[,c("Nitrate..mg.L.", "Phosphate..PO4.P.mg.L.", "Chloride..mg.l.", "Sample.Date")],options = list(pageLength = 4))
@@ -98,7 +100,7 @@ Master_water <- Master %>%
     
   })
   
-  I created six different charts and one table. I used geom_point() and geom_col() to create my charts. 
+  
   
   
   
